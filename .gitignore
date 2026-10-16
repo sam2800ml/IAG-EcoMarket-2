@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+.mypy_cache/
+.pytest_cache/
+.vscode/
+.idea/
+# Base vectorial local: se reconstruye con `python indexar.py`
+qdrant_data/
+resultados/tickets_escalados.jsonl
